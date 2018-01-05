@@ -1,5 +1,5 @@
-import { createElement, SFC, ReactHTML, ReactSVG } from 'react'
+import { SFC, createElement } from 'react'
 
-export default function withProps<Props>(tag: keyof ReactHTML | keyof ReactSVG): SFC<Props> {
+export default function withProps<Props>(tag: keyof JSX.IntrinsicElements): SFC<Props> {
   return props => createElement(tag, props)
 }

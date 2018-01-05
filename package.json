@@ -1,6 +1,6 @@
 {
   "name": "styled-with-props",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A temporary solution to prop passing with TypeScript and styled-components.",
   "repository": {
     "type": "git",
