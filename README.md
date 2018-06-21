@@ -1,4 +1,11 @@
-# styled-with-props
+# :confetti_ball: Deprectated :confetti_ball:
+
+The original issue this was intending to solve has been fixed and released in TypeScript 2.9.2. See [typescript#11947](https://github.com/Microsoft/TypeScript/issues/11947) and [styled-components#1428](https://github.com/styled-components/styled-components/issues/1428) for more information.
+
+<br>
+<br>
+
+## styled-with-props
 
 A temporary solution to prop passing with [TypeScript](http://www.typescriptlang.org/) and [styled-components](https://www.styled-components.com/).
 
